@@ -1,5 +1,5 @@
 html {
-  background-color: #fd81ad;
+  background-color: #cecdcd;
 }
 
 body {
@@ -8,7 +8,7 @@ body {
   height: 100%;
   width: 100%;
   overflow: hidden;
-  background-color: #fd81ad;
+  background-color: #cecdcd;
 }
 
 iframe {
@@ -28,7 +28,7 @@ iframe {
   height: 100%;
   width: 100%;
   overflow: hidden;
-  background-color: #fd81ad;
+  background-color: #cecdcd;
 }
 
 #toclick {
@@ -38,7 +38,7 @@ iframe {
   width: 100%;
   padding-top: 30vh;
   text-align: center;
-  background-color: #fd81ad;
+  background-color: #cecdcd;
   z-index: 2;
   position: absolute;
   top: 0;
