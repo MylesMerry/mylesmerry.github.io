@@ -713,12 +713,12 @@ section.lazy-placeholder:after {
 .cid-rPkNiDKSG0 {
   padding-top: 120px;
   padding-bottom: 120px;
-  background: linear-gradient(45deg, #55b4d4, #149dcc);
+  background: linear-gradient(45deg, #ff4e00, #ff4e00);
 }
 .cid-rPkO89Sbav {
   padding-top: 120px;
   padding-bottom: 120px;
-  background: linear-gradient(0deg, #073b4c, #0f7699);
+  background: linear-gradient(0deg, #ec9f05, #ff4e00);
 }
 .cid-rPkO89Sbav .mbr-iconfont-social {
   font-size: 32px;
@@ -899,7 +899,7 @@ section.lazy-placeholder:after {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #f9f295;
+  background-color: #ec9f05;
 }
 .cid-rPkQwi7NkI button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
